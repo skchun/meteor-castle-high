@@ -30,9 +30,11 @@ h1{
 a{
   color: #999;
 }
+/*
 ul{
   list-style-type: none;
 }
+*/
 .knight-pride{
   background-image: url("/images/frontpage.jpg");
   height: 400px;
